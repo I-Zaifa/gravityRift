@@ -1,6 +1,6 @@
 # Gravity Rift
 
-![Gravity Rift gameplay](screenshot-1.svg)
+![Gravity Rift gameplay](screenshot-1.png)
 
 ## How to Play
 
